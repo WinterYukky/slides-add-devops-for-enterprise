@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.27.20",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "@slidev/theme-shibainu": "^0.0.2",
+    "install": "^0.13.0",
+    "npx": "^10.2.2",
+    "playwright": "^1.18.1",
+    "playwright-chromium": "^1.18.1"
+  },
+  "name": "add-devops-for-enterprise",
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.0.12",
+    "@iconify-json/uim": "^1.0.2"
+  }
+}
