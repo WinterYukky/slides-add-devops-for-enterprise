@@ -284,7 +284,7 @@ layout: section
   <div class="flex flex-col items-center">
     <div class="text-3xl font-bold">AWS CodeCommit</div>
     <div class="h-40 grid items-center">
-      <img src="/AWS CodeCommit.svg" class="h-15"/>
+      <img src="/AWS-CodeCommit.svg" class="h-15"/>
     </div>
     <ul>
       <li>IAMでのユーザー管理が可能</li>
@@ -303,7 +303,7 @@ layout: section
     <div class="h-40 grid grid-cols-3 items-center place-items-center">
       <mdi-github class="text-6xl" />
       <mdi-close class="text-3xl" />
-      <img src="/GitHub Actions.svg" class="h-15"/>
+      <img src="/GitHub-Actions.svg" class="h-15"/>
     </div>
     <ul>
       <li>GitHubの公式CIサービス</li>
@@ -315,7 +315,7 @@ layout: section
     <div class="h-40 grid grid-cols-3 items-center place-items-center">
       <img src="/GitLab.svg" class="h-15"/>
       <mdi-close class="text-3xl" />
-      <img src="/GitLab CI.svg" class="h-15"/>
+      <img src="/GitLab-CI.svg" class="h-15"/>
     </div>
     <ul>
       <li>GitLabの公式CIサービス</li>
@@ -325,9 +325,9 @@ layout: section
   <div class="flex flex-col items-center">
     <div class="text-3xl font-bold">AWS CodeBuild</div>
     <div class="h-40 grid grid-cols-3 items-center place-items-center">
-      <img src="/AWS CodeCommit.svg" class="h-15"/>
+      <img src="/AWS-CodeCommit.svg" class="h-15"/>
       <mdi-close class="text-3xl" />
-      <img src="/AWS CodeBuild.svg" class="h-15"/>
+      <img src="/AWS-CodeBuild.svg" class="h-15"/>
     </div>
     <ul>
       <li>CodeシリーズのCIサービス</li>
@@ -354,7 +354,7 @@ layout: section
   <div class="flex flex-col items-center">
     <div class="text-3xl font-bold">AWS ECS</div>
     <div class="h-40 grid items-center">
-      <img src="/AWS Fargate.svg" class="h-15"/>
+      <img src="/AWS-Fargate.svg" class="h-15"/>
     </div>
     <ul>
       <li>AWSのコンテナオーケストレーション</li>
@@ -364,7 +364,7 @@ layout: section
   <div class="flex flex-col items-center">
     <div class="text-3xl font-bold">AWS Lambda</div>
     <div class="h-40 grid items-center">
-      <img src="/AWS Lambda.svg" class="h-15"/>
+      <img src="/AWS-Lambda.svg" class="h-15"/>
     </div>
     <ul>
       <li>AWSのFaaS</li>
@@ -401,7 +401,7 @@ layout: section
   <div class="flex flex-col items-center">
     <div class="text-3xl font-bold"><span class="pr-2">AWS</span>CloudFormation</div>
     <div class="h-40 grid items-center">
-      <img src="/AWS CloudFormation.svg" class="h-15"/>
+      <img src="/AWS-CloudFormation.svg" class="h-15"/>
     </div>
     <ul>
       <li>AWSの様々なサービスに対応</li>
@@ -428,7 +428,7 @@ layout: section
   <div class="flex flex-col items-center">
     <div class="text-3xl font-bold"><span class="pr-2">Amazon</span>CloudWatch</div>
     <div class="h-40 grid items-center">
-      <img src="/Amazon CloudWatch.svg" class="h-15"/>
+      <img src="/Amazon-CloudWatch.svg" class="h-15"/>
     </div>
     <ul>
       <li>AWSのモニタリングサービス</li>
@@ -439,7 +439,7 @@ layout: section
   <div class="flex flex-col items-center">
     <div class="text-3xl font-bold">AWS X-Ray</div>
     <div class="h-40 grid items-center">
-      <img src="/AWS X-Ray.svg" class="h-15"/>
+      <img src="/AWS-X-Ray.svg" class="h-15"/>
     </div>
     <ul>
       <li>AWSのマイクロサービス分析サービス</li>
@@ -462,7 +462,7 @@ layout: section
   <div class="flex flex-col items-center justify-center">
     <div class="text-3xl font-bold">AWS CDK</div>
     <div class="mt-4">
-      <img src="/AWS CDK.svg" class="h-15"/>
+      <img src="/AWS-CDK.svg" class="h-15"/>
     </div>
   </div>
   <div>
@@ -483,7 +483,7 @@ layout: section
 <div class="grid grid-cols-5 gap-6 mx-5 content-items-center h-4/5">
   <div class="col-span-2">
     <div class="text-2xl flex items-center">
-      <img src="/AWS CloudFormation.svg" class="h-9 mr-3"/>
+      <img src="/AWS-CloudFormation.svg" class="h-9 mr-3"/>
       AWS CloudFormation
     </div>
 
@@ -501,7 +501,7 @@ Resources:
   </div>
   <div class="col-span-3">
     <div class="text-2xl flex items-center">
-      <img src="/AWS CDK.svg" class="h-9 mr-3" />
+      <img src="/AWS-CDK.svg" class="h-9 mr-3" />
       AWS CDK
     </div>
 
@@ -531,7 +531,7 @@ export class MySampleStack extends Stack {
   <div class="flex flex-col items-center justify-center">
     <div class="text-3xl font-bold">GitLab CIのセルフホスト</div>
     <div class="mt-4">
-      <img src="/GitLab CI.svg" class="h-15"/>
+      <img src="/GitLab-CI.svg" class="h-15"/>
     </div>
   </div>
   <div>
